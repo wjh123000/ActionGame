@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\unity project\\ActionGameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\sound\\uibuttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\uibuttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\sound\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIbuttonSound.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\UIbuttonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\UIbuttonSound.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\UIbuttonSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound\\UIbuttonSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T14:00:15.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\AudioManager.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound\\AudioManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T13:59:59.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
