@@ -205,18 +205,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnFootMeshNext
@@ -676,18 +664,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnChangeColorRed
@@ -1312,6 +1288,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb8467ad5348d184cbcbb7842f61e153, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  buttonClickSound: {fileID: 8300000, guid: c6520c0aa3b5ab6419cf93aa28af63de, type: 3}
 --- !u!4 &796350106
 Transform:
   m_ObjectHideFlags: 0
@@ -1585,18 +1562,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnHeadMeshNext
@@ -1730,18 +1695,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnHandMeshNext
@@ -1875,18 +1828,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnChangeColorCyan
@@ -1991,6 +1932,12 @@ MonoBehaviour:
   - {fileID: -5293014847712907612, guid: 6a84ebc916ccfe34b98205e8b6e0c558, type: 3}
   - {fileID: -5293014847712907612, guid: 9007447251f44ed43a7c05ebf760d319, type: 3}
   - {fileID: -5293014847712907612, guid: 068a54c8463111d4c8b071c1a5624707, type: 3}
+  bodyArray:
+  - {fileID: 567068203}
+  - {fileID: 567068200}
+  - {fileID: 567068201}
+  - {fileID: 567068202}
+  - {fileID: 567068199}
 --- !u!4 &899347106
 Transform:
   m_ObjectHideFlags: 0
@@ -2165,18 +2112,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnChangeColorBlue
@@ -2389,18 +2324,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnChangeColorPurple
@@ -2923,18 +2846,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnChangeColorGreen
@@ -3683,18 +3594,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnLowerBodyMeshNext
@@ -3979,18 +3878,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1884723487}
-        m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
-        m_MethodName: PlayButtonClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 899347105}
         m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
         m_MethodName: OnUpperBodyMeshNext

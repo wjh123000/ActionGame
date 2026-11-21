@@ -129,7 +129,7 @@ public class MenuController : MonoBehaviour
     {
         OnClickButtonSound();
         Save();
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("002-play");
     }
 
     private void OnClickButtonSound()
