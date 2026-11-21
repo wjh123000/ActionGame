@@ -14,21 +14,30 @@ public class PlayerControl : MonoBehaviour
         asset.Enable();
         rb = GetComponent<Rigidbody>();
     }
+    private void Update()
+    {
+        if (asset.FindAction("Jump").WasPressedThisFrame())
+        {
+            if(transform.position.y < 0.6f)
+            {
+                rb.AddForce(Vector3.up * 200);
+            }
+            
+        }
+    }
     void FixedUpdate()
     {
         Vector2 dir = asset.FindAction("Move").ReadValue<Vector2>();
-        transform.LookAt(new Vector3(dir.x, 0, dir.y) + transform.position);
         if (dir != Vector2.zero)
         {
+            Quaternion targetRotation = Quaternion.LookRotation(new Vector3(dir.x, 0, dir.y));
+            rb.MoveRotation(targetRotation);
             rb.velocity = new Vector3(dir.x * speed, rb.velocity.y, dir.y * speed);
         }
         else
         {
             rb.velocity = new Vector3(0, rb.velocity.y, 0);
         }
-        if (asset.FindAction("Jump").IsPressed())
-        {
-            rb.AddForce(Vector3.up * 20);
-        }
+        
     }
 }
