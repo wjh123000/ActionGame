@@ -217,6 +217,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnFootMeshNext
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &56106092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -531,6 +543,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnPlay
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &403559426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -655,6 +679,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1884723487}
         m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
         m_MethodName: PlayButtonClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnChangeColorRed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1031,6 +1067,36 @@ PrefabInstance:
 --- !u!4 &567068198 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6488544727563197848, guid: 3d32a3dc0d4e88f48923993f91161a53,
+    type: 3}
+  m_PrefabInstance: {fileID: 567068197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &567068199 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2133595739757421964, guid: 3d32a3dc0d4e88f48923993f91161a53,
+    type: 3}
+  m_PrefabInstance: {fileID: 567068197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &567068200 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 4702101482523986287, guid: 3d32a3dc0d4e88f48923993f91161a53,
+    type: 3}
+  m_PrefabInstance: {fileID: 567068197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &567068201 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2889550834179804377, guid: 3d32a3dc0d4e88f48923993f91161a53,
+    type: 3}
+  m_PrefabInstance: {fileID: 567068197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &567068202 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2892971044614320224, guid: 3d32a3dc0d4e88f48923993f91161a53,
+    type: 3}
+  m_PrefabInstance: {fileID: 567068197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &567068203 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 570828293490676975, guid: 3d32a3dc0d4e88f48923993f91161a53,
     type: 3}
   m_PrefabInstance: {fileID: 567068197}
   m_PrefabAsset: {fileID: 0}
@@ -1531,6 +1597,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnHeadMeshNext
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &829981312
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1655,6 +1733,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1884723487}
         m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
         m_MethodName: PlayButtonClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnHandMeshNext
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1797,6 +1887,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnChangeColorCyan
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &858745825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1835,6 +1937,75 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 858745822}
   m_CullTransparentMesh: 1
+--- !u!1 &899347104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 899347106}
+  - component: {fileID: 899347105}
+  m_Layer: 0
+  m_Name: MenuManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &899347105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899347104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb5c3b6950720b74691a9c81a641ea1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  headRenderer: {fileID: 567068203}
+  headMeshArray:
+  - {fileID: 510116629484337247, guid: 309a9c51d0bb4444583db3d8f3e2d6c7, type: 3}
+  - {fileID: 510116629484337247, guid: 774b4123292fbb0479a9f1fd073e1725, type: 3}
+  - {fileID: 510116629484337247, guid: ca4603961f86e254bb76892cb1177de7, type: 3}
+  handRenderer: {fileID: 567068202}
+  handMeshArray:
+  - {fileID: 7892050140747687148, guid: 2022aa9207fcb664fa723d9630da8ed9, type: 3}
+  - {fileID: 7892050140747687148, guid: 2b9f70929bf11024186a7af5351b67b7, type: 3}
+  - {fileID: 7892050140747687148, guid: d3ff0c07fcb917746b9e320bd85a365e, type: 3}
+  lowerBodyRenderer: {fileID: 567068201}
+  lowerBodyMeshArray:
+  - {fileID: -7411041578895326207, guid: 47d819009facff54a92d33dbe9988267, type: 3}
+  - {fileID: -7411041578895326207, guid: 767553b84ebe8f64cb479ac8689514d9, type: 3}
+  - {fileID: -7411041578895326207, guid: e03f1645c9dc174449b260324844e8e3, type: 3}
+  upperBodyRenderer: {fileID: 567068200}
+  upperBodyMeshArray:
+  - {fileID: 5714165495160507846, guid: edada16e8f22fba41aedc92d5c83e8b4, type: 3}
+  - {fileID: 5714165495160507846, guid: 87aec61565368da48bf622dbd2fadbc5, type: 3}
+  - {fileID: 5714165495160507846, guid: 2c7873b24f21ba548b86b6f082ad8b0b, type: 3}
+  footRenderer: {fileID: 567068199}
+  footMeshArray:
+  - {fileID: -5293014847712907612, guid: 6a84ebc916ccfe34b98205e8b6e0c558, type: 3}
+  - {fileID: -5293014847712907612, guid: 9007447251f44ed43a7c05ebf760d319, type: 3}
+  - {fileID: -5293014847712907612, guid: 068a54c8463111d4c8b071c1a5624707, type: 3}
+--- !u!4 &899347106
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899347104}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 799.35474, y: 537.8927, z: -3.598566}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1049308670
 GameObject:
   m_ObjectHideFlags: 0
@@ -1997,6 +2168,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1884723487}
         m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
         m_MethodName: PlayButtonClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnChangeColorBlue
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2209,6 +2392,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1884723487}
         m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
         m_MethodName: PlayButtonClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnChangeColorPurple
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2731,6 +2926,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1884723487}
         m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
         m_MethodName: PlayButtonClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnChangeColorGreen
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3313,7 +3520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1393d218e7c04fa40827230587028531, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buttonClickSound: {fileID: 8300000, guid: c6520c0aa3b5ab6419cf93aa28af63de, type: 3}
+  buttonClickSound: {fileID: 0}
 --- !u!1 &1943325163
 GameObject:
   m_ObjectHideFlags: 0
@@ -3479,6 +3686,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1884723487}
         m_TargetAssemblyTypeName: UIbuttonSound, Assembly-CSharp
         m_MethodName: PlayButtonClickSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnLowerBodyMeshNext
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3772,6 +3991,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 899347105}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: OnUpperBodyMeshNext
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2104745328
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3820,3 +4051,4 @@ SceneRoots:
   - {fileID: 1884723486}
   - {fileID: 1604455591}
   - {fileID: 796350106}
+  - {fileID: 899347106}

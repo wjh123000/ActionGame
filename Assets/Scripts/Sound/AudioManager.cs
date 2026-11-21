@@ -5,6 +5,7 @@ using UnityEngine;
 public class AudioManager : MonoBehaviour
 {
     public static AudioManager Instance;
+    public AudioClip buttonClickSound;
     private AudioSource AudioSource;
     void Awake()
     {
@@ -29,5 +30,10 @@ public class AudioManager : MonoBehaviour
         AudioSource.time = startTime;
         AudioSource.volume = volume;
         AudioSource.PlayOneShot(clip);
+    }
+
+    public void PlayButtonClickSound()
+    {
+        AudioManager.Instance.PlaySound(buttonClickSound, 0.2f, 1f);
     }
 }
