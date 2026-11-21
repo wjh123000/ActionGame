@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "F:\\unity project\\ActionGameProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\menu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\sound\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\sound\\uibuttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\uibuttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\player\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,40 +42,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UIbuttonSound.cs",
-              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\UIbuttonSound.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\UIbuttonSound.cs",
-              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\UIbuttonSound.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sound\\UIbuttonSound.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T14:00:15.133Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\menu\\MenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\menu\\MenuController.cs",
-              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\menu\\MenuController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\menu\\MenuController.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIcAAAAFAAAAAAAAAA==",
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FollowPlayer.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\FollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-21T07:15:40.384Z",
+              "WhenOpened": "2026-11-21T12:55:11.842Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\AudioManager.cs",
-              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sound\\AudioManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T13:59:59.484Z"
             }
           ]
         }
