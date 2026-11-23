@@ -15,6 +15,7 @@ public class PlayAnimationAttack : MonoBehaviour
     {
         asset.Enable();
         animator = GetComponent<Animator>();
+        animator.SetBool("comboQueued", comboQueued);
     }
 
     private void Update()
@@ -29,6 +30,7 @@ public class PlayAnimationAttack : MonoBehaviour
             else if (isAttacking && canCombo)
             {
                 comboQueued = true; //记录玩家按下了攻击（预输入）
+                animator.SetBool("comboQueued", comboQueued);
             }
         }
 
@@ -48,7 +50,6 @@ public class PlayAnimationAttack : MonoBehaviour
 
     private void FixedUpdate()
     {
-        animator.SetBool("comboQueued", comboQueued);
         if (isAttacking)
         {
             PlayerControl.CanMove = false;
@@ -64,6 +65,7 @@ public class PlayAnimationAttack : MonoBehaviour
         isAttacking = true;
         canCombo = false;
         comboQueued = false;
+        animator.SetBool("comboQueued", comboQueued);
         animator.SetTrigger("AttackA");
     }
 
@@ -76,7 +78,7 @@ public class PlayAnimationAttack : MonoBehaviour
     public void CloseComboWindow()
     {
         isAttacking = false;
-        if (comboQueued)
+        if (comboQueued == true)
         {
             //Debug.Log("Combo Queued! Starting Attack 2");
             StartAttack2();
@@ -96,6 +98,7 @@ public class PlayAnimationAttack : MonoBehaviour
     {
         //Debug.Log("EndAttack");
         comboQueued = false;
+        animator.SetBool("comboQueued", comboQueued);
         isAttacking = false;
     }
 }
