@@ -350,6 +350,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 55462e309699cd548916d44d91f29a60,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: fa8e61cbed97f2d4e96aa8c97d90bc22, type: 2}
     - target: {fileID: 6680777161104999760, guid: 55462e309699cd548916d44d91f29a60,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -383,6 +388,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 6175192429141833303}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 55462e309699cd548916d44d91f29a60,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3161456569033069317}
   m_SourcePrefab: {fileID: 100100000, guid: 55462e309699cd548916d44d91f29a60, type: 3}
 --- !u!4 &6488544727563197848 stripped
 Transform:
@@ -420,9 +429,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 112
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!136 &5067652069375821144
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -460,3 +469,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   asset: {fileID: -944628639613478452, guid: 2c0715639d804aa48896db7d6e6872ca, type: 3}
   speed: 2
+--- !u!114 &3161456569033069317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8670114729412511841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235760c5032ca3d43a30785968853220, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  asset: {fileID: -944628639613478452, guid: 2c0715639d804aa48896db7d6e6872ca, type: 3}

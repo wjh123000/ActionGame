@@ -32,6 +32,18 @@ public class PlayAnimationAttack : MonoBehaviour
             }
         }
 
+        if (asset.FindAction("AttackRange").WasReleasedThisFrame())
+        {
+
+            StartAttackRange();
+        }
+
+    }
+
+    public void StartAttackRange()
+    {
+        animator.SetTrigger("AttackRange");
+        isAttacking = true;
     }
 
     private void FixedUpdate()
@@ -66,7 +78,7 @@ public class PlayAnimationAttack : MonoBehaviour
         isAttacking = false;
         if (comboQueued)
         {
-            Debug.Log("Combo Queued! Starting Attack 2");
+            //Debug.Log("Combo Queued! Starting Attack 2");
             StartAttack2();
         }
         
@@ -82,7 +94,7 @@ public class PlayAnimationAttack : MonoBehaviour
     }
     public void EndAttack()
     {
-        Debug.Log("EndAttack");
+        //Debug.Log("EndAttack");
         comboQueued = false;
         isAttacking = false;
     }
