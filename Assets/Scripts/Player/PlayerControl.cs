@@ -19,6 +19,20 @@ public class PlayerControl : MonoBehaviour
     }
     private void Update()
     {
+        if (!PlayAnimationAttack.isAttacking)
+        {
+            CanMove = true;
+        }
+        else
+        {
+            CanMove = false;
+        }
+        if (!CanMove)
+        {
+            rb.velocity = new Vector3(0, rb.velocity.y, 0);
+            animator.SetFloat("Speed", 0);
+            return;
+        }
         if (asset.FindAction("Jump").WasPressedThisFrame())
         {
             if(transform.position.y < 0.6f)
@@ -31,6 +45,20 @@ public class PlayerControl : MonoBehaviour
     }
     void FixedUpdate()
     {
+        if (!PlayAnimationAttack.isAttacking)
+        {
+            CanMove = true;
+        }
+        else
+        {
+            CanMove = false;
+        }
+        if (!CanMove)
+        {
+            rb.velocity = new Vector3(0, rb.velocity.y, 0);
+            animator.SetFloat("Speed", 0);
+            return;
+        }
         Vector2 dir = asset.FindAction("Move").ReadValue<Vector2>();
         
         if (dir != Vector2.zero)
@@ -54,4 +82,5 @@ public class PlayerControl : MonoBehaviour
         }
         
     }
+
 }
