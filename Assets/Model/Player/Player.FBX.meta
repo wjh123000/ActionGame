@@ -89,7 +89,7 @@ ModelImporter:
   humanDescription:
     serializedVersion: 3
     human:
-    - boneName: b_Spine
+    - boneName: b_Hips
       humanName: Hips
       limit:
         min: {x: 0, y: 0, z: 0}
