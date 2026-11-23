@@ -20,6 +20,19 @@ public class PlayAnimationAttack : MonoBehaviour
 
     private void Update()
     {
+        AnimatorStateInfo state = animator.GetCurrentAnimatorStateInfo(0);
+        bool inAnyAttack = state.IsTag("Attack");
+        if(!inAnyAttack)
+        {
+            isAttacking = false;
+            canCombo = false;
+            comboQueued = false;
+            animator.SetBool("comboQueued", false);
+        }
+        else
+        {
+            isAttacking = true;
+        }
 
         if (asset.FindAction("Attack").WasPressedThisFrame())
         {
@@ -45,7 +58,7 @@ public class PlayAnimationAttack : MonoBehaviour
     public void StartAttackRange()
     {
         animator.SetTrigger("AttackRange");
-        isAttacking = true;
+        //isAttacking = true;
     }
 
     private void FixedUpdate()
@@ -62,7 +75,7 @@ public class PlayAnimationAttack : MonoBehaviour
 
     void StartAttack1()
     {
-        isAttacking = true;
+        //isAttacking = true;
         canCombo = false;
         comboQueued = false;
         animator.SetBool("comboQueued", comboQueued);
@@ -77,7 +90,7 @@ public class PlayAnimationAttack : MonoBehaviour
 
     public void CloseComboWindow()
     {
-        isAttacking = false;
+        //isAttacking = false;
         if (comboQueued == true)
         {
             //Debug.Log("Combo Queued! Starting Attack 2");
@@ -90,7 +103,7 @@ public class PlayAnimationAttack : MonoBehaviour
 
     public void StartAttack2()
     {
-        isAttacking = true;
+        //isAttacking = true;
         canCombo = false;
         animator.SetTrigger("AttackB");
     }
@@ -99,6 +112,7 @@ public class PlayAnimationAttack : MonoBehaviour
         //Debug.Log("EndAttack");
         comboQueued = false;
         animator.SetBool("comboQueued", comboQueued);
-        isAttacking = false;
+        //isAttacking = false;
+        animator.SetFloat("Speed", 0f);
     }
 }
