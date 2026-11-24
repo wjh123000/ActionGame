@@ -9,7 +9,7 @@ public class SoulMonster : MonoBehaviour
     private Animator animator;
     private NavMeshAgent agent;
 
-    public float attackDistance = 1.5f;
+    public float attackDistance = 0.5f;
     private float attackTime = 1.5f;
     private float attackTimer = 0f;
     private bool isAttacking = false;

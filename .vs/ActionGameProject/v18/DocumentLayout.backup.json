@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "F:\\unity project\\ActionGameProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Boss\\SoulBoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Boss\\SoulBoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\spawn\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\monster\\soulmonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster\\soulmonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\player\\playanimationattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playanimationattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\boss\\soulboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss\\soulboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\player\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\boss\\soulboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss\\soulboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\player\\playanimationattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playanimationattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\menu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,41 +78,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayAnimationAttack.cs",
-              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
-              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Spawn.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Spawn\\Spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn\\Spawn.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Spawn\\Spawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawn\\Spawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T13:47:11.99Z",
+              "WhenOpened": "2026-11-24T13:23:29.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SoulBoss.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Boss\\SoulBoss.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Boss\\SoulBoss.cs",
               "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Boss\\SoulBoss.cs",
               "RelativeToolTip": "Assets\\Scripts\\Boss\\SoulBoss.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwAkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T08:25:12.172Z",
+              "WhenOpened": "2026-11-24T08:25:12.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoulMonster.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Monster\\SoulMonster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\SoulMonster.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Monster\\SoulMonster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\SoulMonster.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:23:15.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SoulBoss.cs",
-              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Boss\\SoulBoss.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss\\SoulBoss.cs",
-              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Boss\\SoulBoss.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Boss\\SoulBoss.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Title": "PlayAnimationAttack.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T13:47:19.568Z"
+              "WhenOpened": "2026-11-24T13:23:15.883Z"
             },
             {
               "$type": "Document",
@@ -118,13 +134,13 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerControl.cs",
               "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayerControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerControl.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T13:47:11.992Z"
+              "WhenOpened": "2026-11-24T13:23:15.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Tags.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Tags.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tags.cs",
@@ -132,12 +148,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Tags.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T13:47:11.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-24T13:23:15.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MenuController.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\menu\\MenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\menu\\MenuController.cs",
@@ -145,11 +160,11 @@
               "RelativeToolTip": "Assets\\Scripts\\menu\\MenuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T13:47:11.995Z"
+              "WhenOpened": "2026-11-24T13:23:15.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FollowPlayer.cs",
@@ -157,11 +172,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\FollowPlayer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T13:47:11.995Z"
+              "WhenOpened": "2026-11-24T13:23:15.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UIbuttonSound.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\UIbuttonSound.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\UIbuttonSound.cs",
@@ -169,11 +184,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Sound\\UIbuttonSound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T13:47:11.996Z"
+              "WhenOpened": "2026-11-24T13:23:15.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\AudioManager.cs",
@@ -181,7 +196,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Sound\\AudioManager.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T13:47:11.996Z"
+              "WhenOpened": "2026-11-24T13:23:15.887Z"
             }
           ]
         }
