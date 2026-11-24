@@ -58,7 +58,6 @@ public class PlayAnimationAttack : MonoBehaviour
     public void StartAttackRange()
     {
         animator.SetTrigger("AttackRange");
-        //isAttacking = true;
     }
 
     private void FixedUpdate()
@@ -75,7 +74,6 @@ public class PlayAnimationAttack : MonoBehaviour
 
     void StartAttack1()
     {
-        //isAttacking = true;
         canCombo = false;
         comboQueued = false;
         animator.SetBool("comboQueued", comboQueued);
@@ -90,29 +88,22 @@ public class PlayAnimationAttack : MonoBehaviour
 
     public void CloseComboWindow()
     {
-        //isAttacking = false;
         if (comboQueued == true)
         {
-            //Debug.Log("Combo Queued! Starting Attack 2");
             StartAttack2();
         }
-        
         canCombo = false;
-        //comboQueued = false;
     }
 
     public void StartAttack2()
     {
-        //isAttacking = true;
         canCombo = false;
         animator.SetTrigger("AttackB");
     }
     public void EndAttack()
     {
-        //Debug.Log("EndAttack");
         comboQueued = false;
         animator.SetBool("comboQueued", comboQueued);
-        //isAttacking = false;
         animator.SetFloat("Speed", 0f);
     }
 }
