@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "F:\\unity project\\ActionGameProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\player\\playeratkanddamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeratkanddamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\gun\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\atkanddamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\atkanddamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\boss\\soulboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss\\soulboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\player\\playanimationattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playanimationattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|f:\\unity project\\actiongameproject\\assets\\scripts\\autodistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\spawn\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\autodistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\autodistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\boss\\soulboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss\\soulboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\spawn\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\player\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\player\\playanimationattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playanimationattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9921C3A0-F750-A12A-CCB3-C89D3547BC0F}|Assembly-CSharp.csproj|F:\\unity project\\ActionGameProject\\assets\\scripts\\menu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,6 +103,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Gun\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun\\Gun.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Gun\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun\\Gun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T09:40:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Bullet\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet\\Bullet.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Bullet\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet\\Bullet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T09:39:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerATKAndDamage.cs",
+              "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayerATKAndDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerATKAndDamage.cs",
+              "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayerATKAndDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerATKAndDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T09:39:27.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AutoDistory.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\AutoDistory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AutoDistory.cs",
@@ -98,37 +149,35 @@
               "RelativeToolTip": "Assets\\Scripts\\AutoDistory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:10.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T09:39:27.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ATKAndDamage.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\ATKAndDamage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ATKAndDamage.cs",
               "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\ATKAndDamage.cs",
               "RelativeToolTip": "Assets\\Scripts\\ATKAndDamage.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvyAAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T09:39:27.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Spawn\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn\\SpawnManager.cs",
               "ToolTip": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Spawn\\SpawnManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Spawn\\SpawnManager.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwAkAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.037Z"
+              "WhenOpened": "2026-11-25T09:39:27.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Spawn.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Spawn\\Spawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn\\Spawn.cs",
@@ -136,11 +185,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Spawn\\Spawn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.038Z"
+              "WhenOpened": "2026-11-25T09:39:27.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "SoulBoss.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Boss\\SoulBoss.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Boss\\SoulBoss.cs",
@@ -148,12 +197,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Boss\\SoulBoss.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-25T09:39:27.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "SoulMonster.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Monster\\SoulMonster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\SoulMonster.cs",
@@ -161,11 +209,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Monster\\SoulMonster.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.04Z"
+              "WhenOpened": "2026-11-25T09:39:27.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "PlayAnimationAttack.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
@@ -173,11 +221,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayAnimationAttack.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.041Z"
+              "WhenOpened": "2026-11-25T09:39:27.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PlayerControl.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\PlayerControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerControl.cs",
@@ -185,11 +233,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerControl.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.043Z"
+              "WhenOpened": "2026-11-25T09:39:27.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Tags.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Tags.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tags.cs",
@@ -197,11 +245,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Tags.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.044Z"
+              "WhenOpened": "2026-11-25T09:39:27.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MenuController.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\menu\\MenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\menu\\MenuController.cs",
@@ -209,11 +257,11 @@
               "RelativeToolTip": "Assets\\Scripts\\menu\\MenuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.045Z"
+              "WhenOpened": "2026-11-25T09:39:27.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Player\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FollowPlayer.cs",
@@ -221,11 +269,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\FollowPlayer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.046Z"
+              "WhenOpened": "2026-11-25T09:39:27.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "UIbuttonSound.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\UIbuttonSound.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\UIbuttonSound.cs",
@@ -233,11 +281,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Sound\\UIbuttonSound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.047Z"
+              "WhenOpened": "2026-11-25T09:39:27.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "F:\\unity project\\ActionGameProject\\Assets\\Scripts\\Sound\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\AudioManager.cs",
@@ -245,7 +293,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Sound\\AudioManager.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:19:07.048Z"
+              "WhenOpened": "2026-11-25T09:39:27.37Z"
             }
           ]
         }

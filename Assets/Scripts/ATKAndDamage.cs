@@ -5,11 +5,11 @@ using UnityEngine;
 public class ATKAndDamage : MonoBehaviour
 {
     public float hp = 100f;
-    public float normalAttack = 50f;
+    public float normalAttack = 1f;
     public float attackDistance = 1.5f;
     protected Animator animator;
 
-    private void Start()
+    protected void Awake()
     {
         animator = GetComponent<Animator>();
     }
@@ -23,19 +23,29 @@ public class ATKAndDamage : MonoBehaviour
         }
         if (hp > 0)
         {
-            animator.SetTrigger("Damage");
-            if (this.tag == Tags.soulBoss)
+            if(this.tag == Tags.soulBoss || this.tag == Tags.soulMonster)
             {
-                GameObject.Instantiate(Resources.Load("HiBoss"), transform.position, transform.rotation);
+                animator.SetTrigger("Damage");
             }
-            else if (this.tag == Tags.soulMonster)
-            {
-                GameObject.Instantiate(Resources.Load("HiMonster"), transform.position, transform.rotation);
-            }
+            
         }
         else
         {
             animator.SetBool("Dead", true);
+            if (this.tag == Tags.soulBoss || this.tag == Tags.soulMonster)
+            {
+                SpawnManager.Instance.enemyList.Remove(this.gameObject);
+                Destroy(this.gameObject, 1f);
+            }
+                
+        }
+        if (this.tag == Tags.soulBoss)
+        {
+            GameObject.Instantiate(Resources.Load("HitBoss"), transform.position + Vector3.up, transform.rotation);
+        }
+        else if (this.tag == Tags.soulMonster)
+        {
+            GameObject.Instantiate(Resources.Load("HitMonster"), transform.position + Vector3.up, transform.rotation);
         }
     }
 }

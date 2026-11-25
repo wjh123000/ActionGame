@@ -34,12 +34,12 @@ public class SpawnManager : MonoBehaviour
         yield return new WaitForSeconds(2f);
 
         //第二波敌人生成
-        foreach (var item in bossSpawnArray)
+        foreach (var item in monsterSpawnArray)
         {
             enemyList.Add(item.EnemySpawn());
         }
         yield return new WaitForSeconds(1f);
-        foreach (var item in bossSpawnArray)
+        foreach (var item in monsterSpawnArray)
         {
             enemyList.Add(item.EnemySpawn());
         }
@@ -49,12 +49,12 @@ public class SpawnManager : MonoBehaviour
         }
 
         //第三波敌人生成
-        foreach (var item in bossSpawnArray)
+        foreach (var item in monsterSpawnArray)
         {
             enemyList.Add(item.EnemySpawn());
         }
         yield return new WaitForSeconds(1f);
-        foreach (var item in bossSpawnArray)
+        foreach (var item in monsterSpawnArray)
         {
             enemyList.Add(item.EnemySpawn());
         }

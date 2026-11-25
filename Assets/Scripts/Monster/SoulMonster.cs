@@ -8,6 +8,7 @@ public class SoulMonster : MonoBehaviour
     private Transform player;
     private Animator animator;
     private NavMeshAgent agent;
+    private PlayerATKAndDamage playerATKAndDamage;
 
     public float attackDistance = 0.5f;
     private float attackTime = 1.5f;
@@ -20,10 +21,17 @@ public class SoulMonster : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         isAttacking = false;
         attackTimer = attackTime; // 初始化攻击计时器为攻击间隔时间，以便立即可以攻击
+        playerATKAndDamage = player.GetComponent<PlayerATKAndDamage>();
     }
 
     void Update()
     {
+        if(playerATKAndDamage.hp <= 0)
+        {
+            agent.velocity = Vector3.zero;
+            animator.SetBool("Walk", false);
+            return;
+        }
         AnimatorStateInfo state = animator.GetCurrentAnimatorStateInfo(0);
         if (state.IsTag("Attack"))
         {

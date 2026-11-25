@@ -54,14 +54,19 @@ public class PlayerATKAndDamage : ATKAndDamage
 
     public void AttackRange()
     {
+        List<GameObject> enemies = new List<GameObject>();
         float distance = attackDistance;
         foreach (var item in SpawnManager.Instance.enemyList)
         {
             float temp = Vector3.Distance(item.transform.position, transform.position);
             if (temp < distance)
             {
-                item.GetComponent<ATKAndDamage>().TakeDamage(attackRange);
+                enemies.Add(item);
             }
+        }
+        foreach (var item in enemies)
+        {
+            item.GetComponent<ATKAndDamage>().TakeDamage(attackRange);
         }
     }
 
