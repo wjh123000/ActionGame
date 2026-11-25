@@ -6,4 +6,6 @@ public class Tags
 {
     public const string player = "Player";
     public const string attack = "Attack";
+    public const string soulMonster = "SoulMonster";
+    public const string soulBoss = "SoulBoss";
 }

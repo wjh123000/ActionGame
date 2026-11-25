@@ -4,13 +4,20 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
+    public static SpawnManager Instance;
+
     public Spawn[] monsterSpawnArray;
     public Spawn[] bossSpawnArray;
 
     public List<GameObject> enemyList = new List<GameObject>();
+    private void Awake()
+    {
+        Instance = this;
+    }
 
     private void Start()
     {
+        
         StartCoroutine(EnemySpawn());
     }
     IEnumerator EnemySpawn()
